@@ -1,0 +1,9 @@
+nonebot-plugin-alconna>=0.54.2
+Pillow>=10.2.0
+nonebot-plugin-apscheduler>=0.4.0
+nonebot-plugin-localstore>=0.6.0
+httpx<0.28.0,>=0.27.0
+numpy>=1.24.4
+beautifulsoup4>=4.12.3
+pytz>=2024.2
+opencv-python-headless
